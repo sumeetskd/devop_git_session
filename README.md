@@ -1,2 +1,2 @@
-# devop_git_session
+# Devops_git_training
 Github Training repo
